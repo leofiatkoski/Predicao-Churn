@@ -1,5 +1,6 @@
-# Predicao-Churn
+# Predicao de Churn no Telecom
 > Churn significa a perda de clientes através do cancelamento.
+
 
 As empresas de serviços telefônicos, provedores de serviços de Internet, empresas de TV paga, seguradoras e serviços de monitoramento de alarmes costumam usar a análise de churn como uma de suas principais métricas de negócios, porque o custo de reter um cliente existente é muito menor do que adquirir um novo. As empresas desses setores geralmente têm agências de atendimento ao cliente que tentam reconquistar clientes que cancelem, porque os clientes recuperados de longo prazo podem valer muito mais para uma empresa do que os clientes recém-recrutados.
 
